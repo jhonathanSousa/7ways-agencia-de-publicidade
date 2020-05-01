@@ -1,0 +1,13 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) {
+
+/* Formatação de agência */
+
+.agencia__image{
+	width: 100%;
+	max-width: 200px;
+}
+
+}

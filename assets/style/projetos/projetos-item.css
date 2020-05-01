@@ -1,0 +1,123 @@
+
+/* Smartphone */
+
+@media (max-width: 380px){
+
+/* Formatação de projetos */
+
+.projetos__item{
+	background-color: #fff;
+	margin: 15% 0;
+	height: 275px;	
+	border-radius: 5px;
+}
+
+.projects__titulo{
+	margin: 15px 0;
+	text-align: center;
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.projects__descricao{
+	color: #777;
+	text-align: center;
+}
+
+}
+
+/* Tablet */
+
+@media (min-width: 381px) and (max-width: 767px){
+
+/* Formatação de projetos */
+
+.projetos__item{
+	background-color: #fff;
+	display: block;
+	margin: 10% auto;
+	width: 85%;
+	height: auto;	
+	padding: 15px;
+	border-radius: 5px;
+}
+
+.projects__titulo{
+	margin: 25px 0;
+	text-align: center;
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.projects__descricao{
+	color: #777;
+	text-align: center;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px) and (max-width: 991px){
+
+/* Formatação de projetos */
+
+.projetos__item{
+	background-color: #fff;
+	margin: 5% 0;
+	width: 45%;
+	height: auto;	
+	padding: 15px;
+	border-radius: 5px;
+}
+
+.projects__titulo{
+	margin: 25px 0;
+	text-align: center;
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.projects__descricao{
+	color: #777;
+	text-align: center;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 992px){
+
+/* Formatação de projetos */
+
+.projetos__item{
+	background-color: #fff;
+	margin: 5% 0;
+	width: 30%;
+	height: auto;	
+	padding: 15px;
+	border-radius: 5px;
+}
+
+.projects__titulo{
+	margin: 25px 0;
+	text-align: center;
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.projects__descricao{
+	color: #777;
+	text-align: center;
+}
+
+}

@@ -1,0 +1,15 @@
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação de projetos */
+
+
+.projetos__lista{
+	display: flex;	
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+}

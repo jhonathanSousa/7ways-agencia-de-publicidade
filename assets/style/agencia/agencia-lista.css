@@ -1,0 +1,13 @@
+/* Desktop */
+
+@media (min-width: 992px){
+
+/* Formatação de agência */
+
+.agencia__lista{
+	display: flex;	
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+}

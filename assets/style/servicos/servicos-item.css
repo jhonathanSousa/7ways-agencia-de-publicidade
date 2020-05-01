@@ -1,0 +1,155 @@
+
+/* Smartphone e Tablet*/
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação de item */
+
+.servicos__item{
+	text-align: center;
+	margin: 10% 0;
+}
+
+.servicos__item .icon{
+	width: 120px;
+	height: 120px;
+	border-radius: 120px;
+	line-height: 120px;
+	background-color: #d73e2d;
+	color: #fff;
+	font-size: 2.5em;
+	margin-bottom: 25px;
+}
+
+.services__titulo{
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 30px;			
+}
+
+.services__descricao{
+	margin: 0 auto;
+	width: 85%;
+	color: #777;
+	font-weight: 100;
+	line-height: 25px;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px) and (max-width: 991px){
+
+/* Formatação de item */
+
+.servicos__item{
+	text-align: center;
+	margin: 5% 0;
+}
+
+.servicos__item .icon{
+	width: 120px;
+	height: 120px;
+	border-radius: 120px;
+	line-height: 120px;
+	background-color: #d73e2d;
+	color: #fff;
+	font-size: 2.5em;
+	margin-bottom: 25px;
+}
+
+.services__titulo{
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 30px;			
+}
+
+.services__descricao{
+	margin: 0 auto;
+	width: 56%;
+	color: #777;
+	font-weight: 100;
+	line-height: 25px;
+}
+
+}
+
+/* Desktop */
+
+@media (min-width: 992px) and (max-width: 1200px){
+
+/* Formatação de item */
+
+.servicos__item{
+	width: 33%;
+	text-align: center;
+	margin: 8%  4% 0 4%;
+}
+
+.servicos__item .icon{
+	width: 120px;
+	height: 120px;
+	border-radius: 120px;
+	line-height: 120px;
+	text-align: center;
+	background-color: #d73e2d;
+	color: #fff;
+	font-size: 2.5em;
+	margin-bottom: 25px;
+}
+
+.services__titulo{
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 30px;			
+}
+
+.services__descricao{
+	color: #777;
+	font-weight: 100;
+	line-height: 25px;
+}
+
+}
+
+@media (min-width: 1201px){
+
+/* Formatação de item */
+
+.servicos__item{
+	width: 25%;
+	text-align: center;
+	margin: 8%  4% 0 4%;
+}
+
+.servicos__item .icon{
+	width: 120px;
+	height: 120px;
+	border-radius: 120px;
+	line-height: 120px;
+	text-align: center;
+	background-color: #d73e2d;
+	color: #fff;
+	font-size: 2.5em;
+	margin-bottom: 25px;
+}
+
+.services__titulo{
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 30px;			
+}
+
+.services__descricao{
+	color: #777;
+	font-weight: 100;
+	line-height: 25px;
+}
+
+}
+

@@ -1,0 +1,13 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px){
+
+/* Formatação de projetos */
+
+.projetos{
+	background-color: #f7f7f7;
+	padding: 20px;
+}
+
+}

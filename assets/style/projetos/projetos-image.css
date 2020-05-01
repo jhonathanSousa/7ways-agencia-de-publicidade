@@ -1,0 +1,28 @@
+
+/* Smartphone e Tablet*/
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação de projetos */
+
+.projetos__image{
+	display: block;	
+	margin: 0 auto;
+	width: 100%;
+	max-width: 400px;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação de projetos */
+
+.projetos__image{
+	width: 100%;
+	max-width: 450px;
+}
+
+}

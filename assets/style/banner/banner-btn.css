@@ -1,0 +1,60 @@
+
+/* Smartphone */
+
+@media(max-width: 480px) {
+
+/* Formatação do botão */
+
+.banner__btn{
+	color: #fff;
+	background-color: #d73e2d;
+	border: none;
+	font-size: 1em;
+	font-weight: bold;
+	padding: 20px 0;
+	border-radius: 5px;
+	width: 100%;
+	text-transform: uppercase;
+}
+
+}
+
+/* Tablet */
+
+@media(min-width: 481px) and (max-width: 767px){
+
+/* Formatação do botão */
+
+.banner__btn{
+	color: #fff;
+	background-color: #d73e2d;
+	border: none;
+	font-size: 1em;
+	font-weight: bold;
+	padding: 20px 0;
+	border-radius: 5px;
+	width: 80%;
+	text-transform: uppercase;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media(min-width: 768px) {
+
+/* Formatação do botão */
+
+.banner__btn{
+	color: #fff;
+	background-color: #d73e2d;
+	border: none;
+	font-size: 1em;
+	font-weight: bold;
+	padding: 20px 0;
+	border-radius: 5px;
+	width: 400px;
+	text-transform: uppercase;
+}
+
+}

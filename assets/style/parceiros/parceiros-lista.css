@@ -1,0 +1,14 @@
+
+/* Desktop */
+
+@media (min-width: 992px) {
+
+/* Formatação de parceiros */
+
+.parceiros__lista{
+	display: flex;	
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+}

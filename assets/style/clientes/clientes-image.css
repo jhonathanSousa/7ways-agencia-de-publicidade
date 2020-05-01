@@ -1,0 +1,12 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) {
+
+/* Formatação de clientes */
+
+.clientes__image{
+	border-radius: 50%;
+}
+
+}

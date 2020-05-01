@@ -1,0 +1,34 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação do botão open */
+
+.btn-open{
+	background-color: #fed136;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	padding: 2px 12px;
+	font-size: 1.5em;
+	font-weight: 100;
+}
+
+.btn-open:focus{
+	outline: none;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+.btn-open{
+	display: none;
+}
+
+}
+
+

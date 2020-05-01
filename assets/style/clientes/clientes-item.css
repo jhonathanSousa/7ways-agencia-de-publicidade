@@ -1,0 +1,28 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 991px) {
+
+/* Formatação de clientes */
+
+.clientes__item{
+	text-align: center;
+	margin: 10% 0;
+}
+
+}
+
+/* Smartphone e Tablet */
+
+@media (min-width: 992px) {
+
+/* Formatação de clientes */
+
+.clientes__item{
+	text-align: center;
+	margin: 5% auto;
+	width: 40%;
+
+}
+
+}

@@ -1,0 +1,14 @@
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação do menu */
+
+.menu__lista{
+	display: flex;
+	align-items: center;
+}
+
+}
+

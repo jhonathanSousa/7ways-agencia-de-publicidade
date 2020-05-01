@@ -1,0 +1,13 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px){
+
+/* Formatação de rodapé */
+
+.rodape{
+	padding: 20px;
+	background-color: #000;
+}
+
+}

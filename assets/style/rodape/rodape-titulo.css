@@ -1,0 +1,30 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação de rodapé */
+
+.rodape__titulo{
+	margin: 25px 0;
+	font-size: 2em;
+	color: #fff;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação de rodapé */
+
+.rodape__titulo{
+	text-align: center;
+	margin: 25px 0;
+	font-size: 2em;
+	color: #fff;
+}
+
+}
+

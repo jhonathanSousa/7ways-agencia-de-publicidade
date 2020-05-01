@@ -1,0 +1,36 @@
+
+/* Smartphone */
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+/* Formatação do menu */
+
+.menu__link{
+	font-size: 1.2em;
+	color: #fff;
+	padding: 3.5% 3%;
+	text-transform: uppercase;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação de menu */
+
+.menu__link{
+	color: #fff;
+	text-transform: capitalize;
+	transition: 0.5s;
+	font-size: 1em;
+}
+
+.menu__link:hover{
+	padding: 12px ;
+	background-color: #d73e2d;
+	border-radius: 5px;
+}
+
+}

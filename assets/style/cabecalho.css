@@ -1,0 +1,58 @@
+body{
+	font-family: "open sans " , sans-serif;
+}
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação do cabeçalho */
+
+.cabecalho{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #333;
+	padding: 0 1em;
+}	
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px) and (max-width: 991px){
+
+/* Formatação do cabeçalho */
+
+.cabecalho{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 1.5em;
+	width: 100%;
+	position: absolute;
+	z-index: 10;
+}		
+
+}
+
+/*  Desktop */
+
+@media (min-width: 992px){
+
+/* Formatação do cabeçalho */
+
+.cabecalho{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1.5em 3em;
+	width: 100%;
+	position: absolute;
+	z-index: 10;
+}		
+
+}
+
+
+

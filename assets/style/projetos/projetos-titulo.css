@@ -1,0 +1,34 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação de projetos */
+
+.projetos__titulo{
+	text-align: center;
+	padding: 20% 0 0 0;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #333;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação de projetos */
+
+.projetos__titulo{
+	text-align: center;
+	padding: 8% 0 0 0;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #333;
+}
+
+}

@@ -1,0 +1,77 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação de rodapé */
+
+.form{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.form__input{
+	width: 85%;
+	padding: 15px 10px;
+	margin-bottom: 15px;
+	border: 1px solid #777;
+	border-radius: 5px;
+}
+
+.form__textarea{
+	width: 85%;
+	padding: 15px 10px;
+	margin-bottom: 15px;	
+	border: 1px solid #777;
+	border-radius: 5px;
+}
+
+.btn-enviar{
+	color: #fff;
+	border: none;
+	background-color: #d73e2d;
+	padding: 10px 30px;
+	border-radius: 2px;
+}
+
+}
+
+/* Smartphone e Tablet */
+
+@media (min-width: 768px){
+
+/* Formatação de rodapé */
+
+.form{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.form__input{
+	width: 50%;
+	padding: 15px 10px;
+	margin-bottom: 15px;
+	border: 1px solid #777;
+	border-radius: 5px;
+}
+
+.form__textarea{
+	width: 50%;
+	padding: 15px 10px;
+	margin-bottom: 15px;	
+	border: 1px solid #777;
+	border-radius: 5px;
+}
+
+.btn-enviar{
+	color: #fff;
+	border: none;
+	background-color: #d73e2d;
+	padding: 15px 50px;
+	border-radius: 2px;
+}
+
+
+}

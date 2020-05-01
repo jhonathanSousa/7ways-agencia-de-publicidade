@@ -1,0 +1,16 @@
+
+
+/* Desktop */
+
+@media (min-width: 992px){
+
+/* Formatação de serviços */
+
+.servicos__lista{
+	display: flex;
+	justify-content: center;	
+	flex-wrap: wrap;
+}
+
+
+}

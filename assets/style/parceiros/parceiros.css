@@ -1,0 +1,12 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px){
+
+/* Formatação do parceiros */
+
+.parceiros{
+	padding: 20px;
+}
+
+}

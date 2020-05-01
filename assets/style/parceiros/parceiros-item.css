@@ -1,0 +1,27 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 991px){
+
+/* Formatação do parceiros */
+
+.parceiros__item{
+	text-align: center;
+	margin: 10% 0;
+}
+
+}
+
+/* Desktop */
+
+@media (min-width: 992px) {
+
+/* Formatação do parceiros */
+
+.parceiros__item{
+	text-align: center;
+	margin: 5% auto;
+	width: 20%;
+}
+
+}

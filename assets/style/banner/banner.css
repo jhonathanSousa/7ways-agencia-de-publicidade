@@ -1,0 +1,66 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação do banner */
+
+.banner{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 15px;
+	background-image: url(../../image/banner-cabecalho.jpg);
+	background-size: cover;
+	background-position: top center;
+	height: 100vh;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px) and (max-width: 992px){
+
+/* Formatação do banner */
+
+.banner{
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 15px;
+	background-image: url(../../image/banner-cabecalho.jpg);
+	background-size: cover;
+	background-position: top center;
+	height: 100vh;
+	z-index: 1;
+}
+
+}
+
+/* Desktop */
+
+@media (min-width: 992px){
+
+/* Formatação do banner */
+
+.banner{
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 15px;
+	background-image: url(../../image/banner-cabecalho.jpg);
+	background-size: cover;
+	background-position: top center;
+	height: 100vh;
+	z-index: 1;
+}
+
+
+	
+}

@@ -1,0 +1,12 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px)  {
+
+/* Formatação de agência */
+
+.agencia{
+	padding: 20px;
+}
+
+}

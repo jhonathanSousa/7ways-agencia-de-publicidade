@@ -1,0 +1,46 @@
+
+/* Smartphone e Tablet*/
+
+@media (min-width: 320px) and (max-width: 767px){
+
+/* Formatação de descrição */
+
+.servicos__descricao{
+	text-align: center;
+	padding-top: 20px;
+	line-height: 25px;
+	color: #777777;
+	font-style: italic;		
+}
+
+.servicos__change{
+	color: #777;
+	font-weight: bold;
+}
+
+}
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação de descrição */
+
+.servicos__descricao{
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+	line-height: 25px;
+	color: #777777;
+	font-style: italic;		
+}
+
+.servicos__change{
+	color: #777;
+	font-weight: bold;
+}
+
+
+}
+

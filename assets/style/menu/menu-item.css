@@ -1,0 +1,39 @@
+
+/* Smartphone */
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+/* Formatação do menu */
+
+.menu__item{
+	padding: 15px 0;
+	border-bottom: 1px solid #423940;
+	transition: 0.5s;
+}
+
+.menu__item:last-child{
+	border-bottom: 0;
+}
+
+.menu__item:hover{
+	background-color: #d73e2d;
+}
+
+}
+
+
+/* Tablet e Desktop */
+
+@media (min-width: 768px){
+
+/* Formatação de menu */
+
+.menu__item{
+	margin-right: 20px;
+}
+
+.menu__item:last-child{
+	margin-right: 0;
+}
+
+}

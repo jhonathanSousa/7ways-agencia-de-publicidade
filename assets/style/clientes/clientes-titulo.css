@@ -1,0 +1,63 @@
+
+/* Smartphone e Tablet */
+
+@media (min-width: 320px) and (max-width: 991px) {
+
+/* Formatação de clientes */
+
+.clientes__titulo{
+	text-align: center;
+	padding: 20% 0 0 0;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #333;
+}
+
+.client__titulo{
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin: 20px 0;
+	text-transform: uppercase;	
+}
+
+.client__descricao{
+	color: #777;
+	font-weight: 100;
+	line-height: 25px;
+}
+
+}
+
+/* Desktop */
+
+@media (min-width: 992px) {
+
+/* Formatação de clientes */
+
+.clientes__titulo{
+	text-align: center;
+	padding: 8% 0 0 0;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #333;
+}
+
+.client__titulo{
+	color: #777;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin: 20px 0;
+	text-transform: uppercase;	
+}
+
+.client__descricao{
+	color: #777;
+	font-weight: 100;
+	line-height: 25px;
+}
+
+
+}
